@@ -9,3 +9,5 @@ def snakePrompt():
     print("\tWelcome to The Snake\n")
 
 snakePrompt()
+
+
